@@ -1,0 +1,193 @@
+transaction_id,transaction_date,store_id,product_id,product_name,category,quantity,unit_price,total_amount,customer_segment,payment_method
+TXN10117,02/13/2024,S06,P014,TRX Resistance Bands,Sport,8,59.02,472.16,standard,PayPal
+TXN10023,2024-01-08,S10,P007,Patagonia Fleece,apparel,1,155.94,155.94,Premium,Credit Card
+TXN10145,2024-02-17,S07,P007,Patagonia Fleece,Clothing,8,149.07,1192.56,BUDGET,Apple Pay
+TXN10054,01/28/2024,S07,P011,Vitamix Blender,home & kitchen,8,437.52,3500.16,budget,Credit Card
+RET10003,2024-02-11,S04,P006,Nike Air Max,Apparel,-3,124.24,-372.72,Prem,Debit Card
+TXN10057,2024-03-18,S05,P006,Nike Air Max,Apparel,2,125.32,250.64,loyal,Debit Card
+TXN10109,2024-02-01,S09,P011,Vitamix Blender,HOME & KITCHEN,3,470.65,1411.95,PREMIUM,PayPal
+TXN10165,01/28/2024,S04,P015,Bowflex Dumbbells,Sports,5,309.3,1546.5,Premium,Debit Card
+TXN10075,01/10/2024,S10,P015,Bowflex Dumbbells,sports,4,320.34,1281.36,Budget,Apple Pay
+TXN10175,2024-02-28,S07,P010,KitchenAid Mixer,Home,2,360.55,721.1,BUDGET,PayPal
+TXN10139,2024-02-12,S05,P003,AirPods Pro,ELECTRONICS,2,252.31,504.62,Standard,Apple Pay
+TXN10072,2024-03-17,S08,P020,Neutrogena SPF 50,beauty,4,13.56,54.24,budget,Credit Card
+TXN10051,02/08/2024,S07,P012,Nespresso Machine,HOME & KITCHEN,7,211.3,1479.1,BUDGET,PayPal
+TXN10016,2024-03-16,S01,P001,iPhone 15,ELECTRONICS,4,1014.14,4056.56,Loyal,PayPal
+TXN10007,2024-01-30,S02,P002,Samsung Galaxy S24,ELECTRONICS,1,891.48,891.48,STANDARD,Debit Card
+TXN10019,2024-02-21,S04,P002,Samsung Galaxy S24,ELECTRONICS,6,890.87,5345.22,BUDGET,Debit Card
+TXN10085,2024-03-06,S08,P010,KitchenAid Mixer,HOME & KITCHEN,5,345.26,1726.3,BUDGET,Debit Card
+TXN10103,03/09/2024,S05,P009,Instant Pot Duo,Home,2,89.34,178.68,Standard,Apple Pay
+TXN10039,02/25/2024,S10,P012,Nespresso Machine,home & kitchen,2,214.35,428.7,loyal,PayPal
+TXN10022,02/03/2024,S09,P013,Peloton Mat,Sport,8,38.62,308.96,PREMIUM,PayPal
+TXN10170,03/28/2024,S09,P015,Bowflex Dumbbells,Sporting Goods,6,282.15,1692.9,PREMIUM,Debit Card
+TXN10114,2024-02-21,S08,P016,CamelBak Water Bottle,Sports,7,30.88,216.16,loyal,Apple Pay
+TXN10009,2024-01-29,,P012,Nespresso Machine,Home & Kitchen,3,200.29,600.87,PREMIUM,Debit Card
+TXN10077,03/29/2024,S09,P015,Bowflex Dumbbells,Sporting Goods,5,309.58,1547.9,Bgt,Credit Card
+TXN10089,2024-03-25,S09,P013,Peloton Mat,Sporting Goods,3,39.96,119.88,Standard,Debit Card
+TXN10042,03/27/2024,S03,P015,Bowflex Dumbbells,Sports,4,300.53,1202.12,standard,Credit Card
+TXN10029,2024-01-20,S06,P018,Dyson Airwrap,BEAUTY,5,579.04,2895.2,Std,PayPal
+TXN10001,2024-01-28,S04,P003,AirPods Pro,Electronic,4,250.2,1000.8,Prem,PayPal
+RET10006,2024-02-25,S06,P004,Sony WH-1000XM5,Electronics,-1,371.41,-371.41,budget,Credit Card
+TXN10065,2024-02-21,S08,P008,Champion Hoodie,Clothing,4,48.44,193.76,Std,PayPal
+TXN10063,02/13/2024,S05,P009,Instant Pot Duo,Home & Kitchen,5,95.47,477.35,Premium,Apple Pay
+TXN10047,02/27/2024,S05,P016,CamelBak Water Bottle,Sporting Goods,5,31.2,156.0,BUDGET,PayPal
+TXN10011,2024-01-15,,P011,Vitamix Blender,HOME & KITCHEN,5,445.29,2226.45,loyal,Apple Pay
+TXN10002,2024-01-21,S06,P001,iPhone 15,Electronics,7,974.43,6821.01,Lyl,Credit Card
+RET10000,2024-01-19,S06,P020,Neutrogena SPF 50,Beauty,-2,13.74,-27.48,Std,Apple Pay
+TXN10074,2024-01-01,S05,P006,Nike Air Max,Apparel,7,119.04,833.28,premium,PayPal
+TXN10079,01/06/2024,S05,P019,La Mer Cream,BEAUTY,3,194.08,582.24,Bgt,Credit Card
+TXN10137,2024-03-01,S06,P020,Neutrogena SPF 50,Beauty,3,13.94,41.82,Premium,Apple Pay
+TXN10060,2024-02-16,S09,P014,TRX Resistance Bands,SPORTS,8,61.98,495.84,Bgt,Debit Card
+TXN10133,2024-02-02,S02,P005,Levi's 501 Jeans,Apparel,4,66.33,265.32,Bgt,Debit Card
+TXN10020,02/05/2024,S08,P006,Nike Air Max,Clothing,8,115.19,921.52,Loyal,Credit Card
+TXN10115,2024-01-17,S06,P003,AirPods Pro,Electronic,5,254.96,1274.8,Std,Debit Card
+TXN10012,02/17/2024,S09,P005,Levi's 501 Jeans,Apparel,3,70.43,211.29,Std,Credit Card
+TXN10046,02/29/2024,S10,P005,Levi's 501 Jeans,Clothing,6,75.03,450.18,Bgt,Apple Pay
+TXN10174,2024-02-23,S05,P019,La Mer Cream,beauty,1,194.94,194.94,BUDGET,Debit Card
+TXN10055,2024-01-03,S02,P016,CamelBak Water Bottle,Sports,1,32.39,32.39,LOYAL,Apple Pay
+RET10009,2024-02-17,S06,P013,Peloton Mat,Sports,-2,40.36,-80.72,PREMIUM,Debit Card
+TXN10126,2024-03-03,S10,P019,La Mer Cream,Beauty,5,180.82,904.1,LOYAL,PayPal
+TXN10118,03/28/2024,S02,P005,Levi's 501 Jeans,apparel,8,65.14,521.12,loyal,Apple Pay
+TXN10091,03/29/2024,S09,P020,Neutrogena SPF 50,Cosmetics,7,13.3,93.1,Std,Credit Card
+TXN10000,2024-01-04,S02,P004,Sony WH-1000XM5,Electronics,5,335.7,1678.5,Budget,Credit Card
+TXN10085,2024-03-06,S08,P010,KitchenAid Mixer,HOME & KITCHEN,5,345.26,1726.3,BUDGET,Debit Card
+TXN10049,2024-03-29,S07,P013,Peloton Mat,SPORTS,3,41.31,123.93,Bgt,Credit Card
+TXN10123,2024-01-12,S03,P001,iPhone 15,Elec.,4,980.18,3920.72,standard,Credit Card
+TXN10059,2024-03-09,S06,P012,Nespresso Machine,Home & Kitchen,7,205.16,1436.12,Bgt,Credit Card
+TXN10066,2024-03-30,S02,P012,Nespresso Machine,HOME & KITCHEN,8,192.66,1541.28,Standard,Apple Pay
+TXN10162,2024-01-19,S06,P001,iPhone 15,Elec.,8,925.56,7404.48,Budget,Apple Pay
+TXN10021,2024-01-31,S07,P003,AirPods Pro,Electronics,3,246.25,738.75,Prem,Credit Card
+TXN10099,2024-02-15,S03,P020,Neutrogena SPF 50,Beauty,4,13.27,53.08,loyal,Debit Card
+TXN10064,2024-03-03,S08,P014,TRX Resistance Bands,Sport,4,61.82,247.28,Loyal,PayPal
+TXN10003,02/14/2024,S09,P012,Nespresso Machine,Home & Kitchen,5,209.82,1049.1,Budget,PayPal
+TXN10014,01/17/2024,S03,P018,Dyson Airwrap,beauty,3,615.33,1845.99,BUDGET,Apple Pay
+TXN10095,2024-03-15,S08,P016,CamelBak Water Bottle,SPORTS,3,28.7,86.1,Lyl,PayPal
+TXN10104,2024-01-04,S02,P016,CamelBak Water Bottle,Sport,6,31.98,191.88,Std,Credit Card
+TXN10164,2024-02-01,S09,P009,Instant Pot Duo,Home,2,83.16,166.32,loyal,PayPal
+TXN10108,2024-02-20,S08,P002,Samsung Galaxy S24,Electronics,5,807.8,4039.0,Premium,Credit Card
+TXN10030,2024-01-12,S06,P002,Samsung Galaxy S24,ELECTRONICS,7,894.78,6263.46,STANDARD,Debit Card
+RET10007,2024-01-07,S06,P013,Peloton Mat,Sports,-3,40.39,-121.17,Standard,Debit Card
+TXN10017,2024-03-06,S09,P003,AirPods Pro,ELECTRONICS,4,241.13,964.52,BUDGET,Debit Card
+TXN10070,2024-02-13,S08,P015,Bowflex Dumbbells,Sports,3,322.33,966.99,Lyl,Debit Card
+TXN10034,02/12/2024,S04,P006,Nike Air Max,apparel,7,125.79,880.53,Premium,Debit Card
+TXN10124,2024-01-20,S02,P002,Samsung Galaxy S24,Elec.,3,884.59,2653.77,Bgt,Debit Card
+TXN10025,2024-03-25,S06,P014,TRX Resistance Bands,sports,6,64.16,384.96,Std,Apple Pay
+TXN10027,02/03/2024,S04,P017,CeraVe Moisturizer,beauty,3,18.17,54.51,STANDARD,Debit Card
+TXN10171,2024-01-08,S03,P017,CeraVe Moisturizer,beauty,2,17.04,34.08,premium,PayPal
+TXN10032,01/06/2024,S01,P005,Levi's 501 Jeans,apparel,5,68.47,342.35,PREMIUM,Credit Card
+TXN10056,2024-03-20,S02,P001,iPhone 15,ELECTRONICS,3,958.16,2874.48,budget,PayPal
+TXN10116,03/30/2024,S09,P004,Sony WH-1000XM5,ELECTRONICS,2,369.75,739.5,Bgt,Apple Pay
+TXN10010,01/09/2024,,P020,Neutrogena SPF 50,beauty,7,12.74,89.18,Loyal,PayPal
+TXN10163,2024-02-17,S03,P015,Bowflex Dumbbells,Sporting Goods,6,297.3,1783.8,Std,PayPal
+TXN10005,2024-02-05,S06,P013,Peloton Mat,SPORTS,8,40.86,326.88,premium,Credit Card
+RET10005,2024-02-15,S08,P019,La Mer Cream,Beauty,-1,180.98,-180.98,budget,Credit Card
+TXN10018,2024-01-25,S07,P014,TRX Resistance Bands,Sport,2,56.12,112.24,Budget,Credit Card
+TXN10093,2024-01-22,S01,P015,Bowflex Dumbbells,SPORTS,5,319.35,1596.75,standard,Debit Card
+TXN10050,2024-02-23,S01,P007,Patagonia Fleece,Clothing,7,159.71,1117.97,Bgt,Credit Card
+TXN10160,2024-01-11,S10,P004,Sony WH-1000XM5,Electronic,6,359.0,2154.0,Prem,PayPal
+RET10002,2024-02-01,S05,P015,Bowflex Dumbbells,Sports,-1,280.64,-280.64,Bgt,Apple Pay
+RET10001,2024-03-06,S04,P012,Nespresso Machine,Home & Kitchen,-3,187.39,-562.17,Budget,PayPal
+TXN10073,2024-01-13,S02,P020,Neutrogena SPF 50,BEAUTY,4,13.25,53.0,PREMIUM,Credit Card
+TXN10135,2024-02-05,S08,P010,KitchenAid Mixer,Home,1,341.7,341.7,Loyal,PayPal
+TXN10101,03/10/2024,S03,P005,Levi's 501 Jeans,apparel,6,70.34,422.04,budget,PayPal
+TXN10142,2024-01-29,S02,P007,Patagonia Fleece,Clothing,3,141.71,425.13,loyal,Apple Pay
+TXN10168,02/16/2024,S03,P001,iPhone 15,Electronics,6,994.77,5968.62,loyal,Debit Card
+TXN10127,2024-01-18,S08,P007,Patagonia Fleece,Clothing,5,144.94,724.7,BUDGET,Apple Pay
+TXN10110,03/17/2024,S03,P005,Levi's 501 Jeans,Clothing,1,67.5,67.5,STANDARD,Credit Card
+TXN10040,2024-02-11,S04,P014,TRX Resistance Bands,Sport,7,61.88,433.16,BUDGET,PayPal
+TXN10150,2024-01-01,S03,P020,Neutrogena SPF 50,Cosmetics,2,11.99,23.98,loyal,Apple Pay
+RET10008,2024-02-27,S10,P017,CeraVe Moisturizer,Beauty,-3,16.39,-49.17,LOYAL,Credit Card
+TXN10113,01/29/2024,S09,P017,CeraVe Moisturizer,beauty,1,17.61,17.61,Budget,Credit Card
+TXN10026,02/28/2024,S01,P010,KitchenAid Mixer,Home,6,374.01,2244.06,Loyal,Apple Pay
+TXN10090,2024-03-08,S03,P004,Sony WH-1000XM5,Electronics,8,322.85,2582.8,budget,PayPal
+TXN10036,2024-02-21,S05,P007,Patagonia Fleece,apparel,6,144.68,868.08,budget,Credit Card
+TXN10119,2024-01-08,S07,P018,Dyson Airwrap,Beauty,6,616.31,3697.86,standard,PayPal
+TXN10138,02/26/2024,S07,P015,Bowflex Dumbbells,Sport,3,293.46,880.38,Standard,PayPal
+TXN10159,03/07/2024,S02,P012,Nespresso Machine,Home,5,209.63,1048.15,premium,PayPal
+TXN10141,2024-01-12,S05,P017,CeraVe Moisturizer,BEAUTY,7,17.01,119.07,premium,Debit Card
+TXN10071,03/14/2024,S05,P003,AirPods Pro,Electronics,1,236.06,236.06,Premium,Debit Card
+TXN10153,03/14/2024,S09,P008,Champion Hoodie,apparel,7,47.49,332.43,Loyal,Debit Card
+TXN10031,02/24/2024,S03,P018,Dyson Airwrap,Beauty,1,562.73,562.73,STANDARD,Debit Card
+TXN10024,2024-01-09,S02,P006,Nike Air Max,Clothing,2,123.35,246.7,Premium,Credit Card
+TXN10061,02/04/2024,S02,P019,La Mer Cream,beauty,6,205.97,1235.82,BUDGET,Debit Card
+TXN10166,02/26/2024,S06,P006,Nike Air Max,Clothing,2,125.95,251.9,Standard,PayPal
+TXN10033,03/12/2024,S04,P012,Nespresso Machine,HOME & KITCHEN,7,215.15,1506.05,Prem,Credit Card
+TXN10088,2024-01-25,S07,P011,Vitamix Blender,Home & Kitchen,4,455.16,1820.64,Std,Debit Card
+TXN10102,02/29/2024,S07,P004,Sony WH-1000XM5,Elec.,2,329.87,659.74,Lyl,Credit Card
+TXN10082,2024-01-07,S08,P014,TRX Resistance Bands,Sport,4,60.17,240.68,LOYAL,PayPal
+TXN10087,2024-03-16,S08,P010,KitchenAid Mixer,home & kitchen,8,370.44,2963.52,Std,Debit Card
+TXN10092,01/09/2024,S04,P020,Neutrogena SPF 50,Beauty,4,13.26,53.04,Budget,Credit Card
+TXN10111,01/17/2024,S10,P001,iPhone 15,Elec.,1,977.31,977.31,LOYAL,PayPal
+TXN10098,02/05/2024,S01,P013,Peloton Mat,Sporting Goods,1,40.41,40.41,budget,Apple Pay
+RET10004,2024-02-09,S07,P016,CamelBak Water Bottle,Sports,-2,27.7,-55.4,BUDGET,Apple Pay
+TXN10045,01/29/2024,S08,P014,TRX Resistance Bands,Sports,3,62.91,188.73,Premium,Debit Card
+TXN10069,02/07/2024,S02,P018,Dyson Airwrap,Beauty,3,613.23,1839.69,Std,Debit Card
+TXN10154,2024-01-06,S01,P016,CamelBak Water Bottle,SPORTS,7,32.3,226.1,loyal,Apple Pay
+TXN10068,2024-01-30,S09,P010,KitchenAid Mixer,HOME & KITCHEN,6,332.04,1992.24,Standard,Credit Card
+TXN10116,03/30/2024,S09,P004,Sony WH-1000XM5,ELECTRONICS,2,369.75,739.5,Bgt,Apple Pay
+TXN10158,02/17/2024,S07,P004,Sony WH-1000XM5,Elec.,7,371.8,2602.6,Prem,Debit Card
+TXN10044,2024-02-23,S07,P015,Bowflex Dumbbells,sports,4,310.47,1241.88,Premium,Credit Card
+TXN10143,02/18/2024,S10,P020,Neutrogena SPF 50,BEAUTY,3,12.29,36.87,Budget,Debit Card
+TXN10096,2024-01-21,S10,P018,Dyson Airwrap,beauty,2,594.4,1188.8,budget,Debit Card
+TXN10038,2024-03-18,S05,P014,TRX Resistance Bands,Sports,2,58.89,117.78,Budget,Apple Pay
+TXN10121,01/29/2024,S10,P019,La Mer Cream,Beauty,7,205.77,1440.39,Standard,Apple Pay
+TXN10053,2024-03-16,S08,P013,Peloton Mat,sports,1,37.33,37.33,loyal,Debit Card
+TXN10132,2024-01-10,S06,P006,Nike Air Max,apparel,2,120.58,241.16,PREMIUM,Credit Card
+TXN10132,2024-01-10,S06,P006,Nike Air Max,apparel,2,120.58,241.16,PREMIUM,Credit Card
+TXN10015,2024-02-21,S02,P010,KitchenAid Mixer,HOME & KITCHEN,6,346.52,2079.12,Premium,PayPal
+TXN10120,2024-03-14,S02,P004,Sony WH-1000XM5,Elec.,4,330.66,1322.64,Standard,PayPal
+TXN10128,03/09/2024,,P013,Peloton Mat,Sports,4,39.99,159.96,Budget,Debit Card
+TXN10140,02/09/2024,S02,P012,Nespresso Machine,home & kitchen,7,188.12,1316.84,budget,Apple Pay
+TXN10052,03/03/2024,S07,P014,TRX Resistance Bands,sports,1,58.92,58.92,BUDGET,Credit Card
+TXN10105,2024-01-06,S02,P005,Levi's 501 Jeans,Apparel,1,67.8,67.8,Prem,Debit Card
+TXN10038,2024-03-18,S05,P014,TRX Resistance Bands,Sports,2,58.89,117.78,Budget,Apple Pay
+TXN10107,2024-03-29,S04,P002,Samsung Galaxy S24,Elec.,6,811.54,4869.24,loyal,PayPal
+TXN10080,02/14/2024,S03,P016,CamelBak Water Bottle,SPORTS,7,29.19,204.33,Bgt,PayPal
+TXN10112,01/17/2024,S08,P002,Samsung Galaxy S24,Electronic,7,853.54,5974.78,Standard,Debit Card
+TXN10172,2024-02-02,S03,P003,AirPods Pro,Elec.,4,255.39,1021.56,LOYAL,Apple Pay
+TXN10048,2024-01-10,S09,P015,Bowflex Dumbbells,Sports,5,287.25,1436.25,PREMIUM,Apple Pay
+TXN10169,03/08/2024,S02,P016,CamelBak Water Bottle,sports,7,31.28,218.96,Standard,Debit Card
+TXN10146,2024-01-18,S06,P020,Neutrogena SPF 50,Beauty,5,12.06,60.3,loyal,Credit Card
+TXN10008,2024-03-23,S09,P013,Peloton Mat,Sporting Goods,8,37.7,301.6,Std,Debit Card
+TXN10062,2024-03-19,S06,P019,La Mer Cream,BEAUTY,7,189.9,1329.3,BUDGET,PayPal
+TXN10037,02/03/2024,S01,P004,Sony WH-1000XM5,Electronics,3,354.5,1063.5,budget,PayPal
+TXN10097,2024-01-26,S07,P010,KitchenAid Mixer,home & kitchen,7,369.78,2588.46,standard,Credit Card
+TXN10134,2024-03-23,S03,P019,La Mer Cream,Cosmetics,6,206.36,1238.16,Lyl,Debit Card
+TXN10043,2024-03-27,S01,P008,Champion Hoodie,Apparel,5,47.79,238.95,Prem,Credit Card
+TXN10122,2024-03-30,S03,P009,Instant Pot Duo,HOME & KITCHEN,5,96.06,480.3,Budget,Apple Pay
+TXN10167,2024-01-21,S02,P010,KitchenAid Mixer,HOME & KITCHEN,3,366.44,1099.32,PREMIUM,Debit Card
+TXN10013,2024-02-16,S10,P004,Sony WH-1000XM5,Electronics,5,335.4,1677.0,Lyl,Credit Card
+TXN10058,01/26/2024,S04,P013,Peloton Mat,Sports,2,40.58,81.16,Standard,Credit Card
+TXN10147,2024-02-04,S07,P006,Nike Air Max,Apparel,8,127.77,1022.16,Prem,PayPal
+TXN10148,2024-02-23,S07,P001,iPhone 15,Electronics,1,983.42,983.42,STANDARD,Credit Card
+TXN10067,2024-01-28,S09,P007,Patagonia Fleece,Clothing,8,144.63,1157.04,Standard,Apple Pay
+TXN10173,2024-03-25,S01,P006,Nike Air Max,Apparel,6,126.57,759.42,loyal,Apple Pay
+TXN10152,2024-03-09,S03,P020,Neutrogena SPF 50,beauty,1,13.26,13.26,Budget,PayPal
+TXN10006,2024-03-22,S08,P020,Neutrogena SPF 50,Cosmetics,3,13.06,39.18,STANDARD,PayPal
+TXN10161,2024-01-06,S01,P015,Bowflex Dumbbells,Sports,6,305.5,1833.0,budget,Apple Pay
+TXN10078,2024-01-06,S01,P020,Neutrogena SPF 50,Beauty,7,13.48,94.36,Premium,PayPal
+TXN10149,2024-01-13,S05,P011,Vitamix Blender,Home,6,470.97,2825.82,Prem,Debit Card
+TXN10106,03/26/2024,S07,P012,Nespresso Machine,Home & Kitchen,7,202.78,1419.46,Bgt,PayPal
+TXN10028,2024-02-08,S02,P018,Dyson Airwrap,BEAUTY,1,616.1,616.1,Standard,Credit Card
+TXN10084,01/02/2024,S02,P018,Dyson Airwrap,Cosmetics,7,560.94,3926.58,LOYAL,Debit Card
+TXN10094,02/01/2024,S03,P005,Levi's 501 Jeans,Apparel,7,70.73,495.11,Lyl,Apple Pay
+TXN10004,2024-02-16,S04,P020,Neutrogena SPF 50,beauty,4,13.42,53.68,LOYAL,Credit Card
+TXN10121,01/29/2024,S10,P019,La Mer Cream,Beauty,7,205.77,1440.39,Standard,Apple Pay
+RET10006,2024-02-25,S06,P004,Sony WH-1000XM5,Electronics,-1,371.41,-371.41,budget,Credit Card
+TXN10144,2024-03-27,S08,P012,Nespresso Machine,HOME & KITCHEN,4,215.02,860.08,premium,Debit Card
+TXN10125,02/26/2024,S02,P020,Neutrogena SPF 50,beauty,7,12.52,87.64,Budget,PayPal
+TXN10136,2024-01-10,S08,P010,KitchenAid Mixer,Home & Kitchen,2,356.43,712.86,BUDGET,PayPal
+TXN10130,01/03/2024,S08,P013,Peloton Mat,SPORTS,6,37.89,227.34,Lyl,Credit Card
+TXN10129,2024-02-28,S10,P001,iPhone 15,Electronic,2,1057.93,2115.86,budget,Credit Card
+TXN10086,2024-03-17,S07,P007,Patagonia Fleece,apparel,3,158.73,476.19,Standard,PayPal
+TXN10151,2024-01-16,S10,P010,KitchenAid Mixer,Home,1,335.34,335.34,Loyal,Debit Card
+TXN10076,2024-02-04,S05,P005,Levi's 501 Jeans,Clothing,3,65.19,195.57,Std,Credit Card
+TXN10157,2024-03-01,S05,P018,Dyson Airwrap,beauty,5,555.51,2777.55,loyal,PayPal
+TXN10100,2024-03-15,S05,P002,Samsung Galaxy S24,Elec.,6,881.59,5289.54,BUDGET,Apple Pay
+TXN10041,2024-03-11,S10,P013,Peloton Mat,Sporting Goods,1,38.74,38.74,Std,Debit Card
+TXN10081,2024-03-11,S06,P013,Peloton Mat,Sports,1,39.7,39.7,Budget,Debit Card
+TXN10156,2024-01-09,S04,P005,Levi's 501 Jeans,Apparel,8,64.8,518.4,standard,Debit Card
+TXN10083,01/17/2024,S02,P018,Dyson Airwrap,Beauty,5,594.05,2970.25,PREMIUM,PayPal
+TXN10035,03/01/2024,,P002,Samsung Galaxy S24,Elec.,4,809.13,3236.52,PREMIUM,Credit Card
+TXN10131,2024-02-25,S05,P008,Champion Hoodie,Clothing,7,50.18,351.26,STANDARD,PayPal
+TXN10155,2024-03-15,S06,P004,Sony WH-1000XM5,ELECTRONICS,6,329.46,1976.76,Bgt,Apple Pay
